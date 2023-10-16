@@ -2,12 +2,13 @@
 
 Algumas informações sobre mim:
 
-- 👨‍💻 Estou trabalhando em alguns projetos ...
-- 📚 Estudando JS, PHP, Python, MySql, VueJs, TypeScript, Ajax, Jquery ...
-- 🕹️ Desenvolvedor em uma empresa ...
-- 👾 Utilizo MVC para desenvolver em Codeigniter 4 ...
+- 👨‍💻 Estou trabalhando em alguns projetos
+- 📚 Experiência em JS, PHP, Python, MySql, VueJs, Jquery, NodeJS
+- 🕹️ Desenvolvedor autodidata
+- 👾 3 anos de experiência em Codeigniter 4
 - 💚 Bom conhecimento em VUE 3
-- 📙 Utilizo Inertia JS em alguns projetos
+- ⏳ Bom conhecimento em WebSocket com Socket.IO e Ratchet PHP
+- 📙 Explorando Inertia JS e React
 
 <div dir="auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
