@@ -21,6 +21,8 @@ Algumas informações sobre mim:
 
 </div>
 
+<br>
+
 |Frameworks|Conhecimento|
 |----------|------------|
 |VUE3|Intermediário|
