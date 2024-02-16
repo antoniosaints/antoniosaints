@@ -8,7 +8,7 @@ Algumas informações sobre mim:
 - 👾 3 anos de experiência em Codeigniter 4
 - 💚 Bom conhecimento em VUE 3
 - ⏳ Bom conhecimento em WebSocket com Socket.IO e Ratchet PHP
-- 📙 Explorando Inertia JS e React
+- 📙 Explorando GO lang
 
 <div dir="auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
