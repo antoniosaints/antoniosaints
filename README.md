@@ -6,7 +6,7 @@ Algumas informações sobre mim:
 - 🕹️ Desenvolvedor autodidata
 - 👾 4 anos de experiência com PHP
 - 💚 Bom conhecimento em VUE 3 e NodeJS
-- ⏳ Bom conhecimento em WebSocket com Socket.IO e Ratchet PHP
+- ⏳ WebSocket com Socket.IO e Ratchet PHP
 - 📙 Explorando GO lang
 
 <div dir="auto"><br>
