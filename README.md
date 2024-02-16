@@ -20,3 +20,11 @@ Algumas informações sobre mim:
   <img align="center" alt="Antonio-GO" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" style="max-width: 100%;">
 
 </div>
+
+|Frameworks|Conhecimento|
+|----------|------------|
+|VUE3|Intermediário|
+|Codeingniter 4|Avançado|
+|Flask|Básico|
+|Django|Básico|
+|NuxtJS|Intermediário|
