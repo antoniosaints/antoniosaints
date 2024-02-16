@@ -5,8 +5,8 @@ Algumas informações sobre mim:
 - 👨‍💻 Estou trabalhando em alguns projetos
 - 📚 Experiência em JS, PHP, Python, MySql, VueJs, Jquery, NodeJS
 - 🕹️ Desenvolvedor autodidata
-- 👾 3 anos de experiência em Codeigniter 4
-- 💚 Bom conhecimento em VUE 3
+- 👾 4 anos de experiência com PHP
+- 💚 Bom conhecimento em VUE 3 e NodeJS
 - ⏳ Bom conhecimento em WebSocket com Socket.IO e Ratchet PHP
 - 📙 Explorando GO lang
 
