@@ -18,6 +18,7 @@ Algumas informações sobre mim:
   <img align="center" alt="Antonio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
  <img align="center" alt="Antonio-Python" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg" style="max-width: 100%;">
   <img align="center" alt="Antonio-Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" style="max-width: 100%;">
+  <img align="center" alt="Antonio-GO" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg)" style="max-width: 100%;">
 
 </div>
 
