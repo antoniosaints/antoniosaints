@@ -30,3 +30,5 @@ Algumas informações sobre mim:
 |Flask|Básico|
 |Django|Básico|
 |NuxtJS|Intermediário|
+|React|Básico|
+|NodeJS|Intermediário|
