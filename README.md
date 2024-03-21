@@ -1,6 +1,6 @@
 ## Iai DEV 👋
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=antoniosaints&theme=onedark](https://github-profile-trophy.vercel.app/?username=antoniosaints&row=2&column=3&&theme=discord))](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]((https://github-profile-trophy.vercel.app/?username=antoniosaints&row=2&column=3&&theme=discord))](https://github.com/ryo-ma/github-profile-trophy)
 
 Algumas informações sobre mim:
 
