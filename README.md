@@ -11,6 +11,7 @@ Algumas informações sobre mim:
 - 💚 Bom conhecimento em VUE 3 e NodeJS
 - ⏳ WebSocket com Socket.IO e Ratchet PHP
 - 📙 Explorando GO lang
+- ✨ Experiência com ORM ( Sequelize e Doctrine )
 
 <div dir="auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
