@@ -4,7 +4,7 @@
 
 Algumas informações sobre mim:
 
-- 📚 Experiência em JS, PHP, Python, MySql, VueJs, Jquery, NodeJS
+- 📚 Experiência em JS, PHP, Python, MySQL, VueJS, Jquery, NodeJS
 - 🕹️ Desenvolvedor autodidata
 - 👾 5 anos de experiência com PHP
 - 💛 2 anos de experiência com JS
