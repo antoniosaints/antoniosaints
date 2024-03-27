@@ -9,6 +9,7 @@ Algumas informações sobre mim:
 - 👾 5 anos de experiência com PHP
 - 💛 2 anos de experiência com JS
 - 💚 Bom conhecimento em VUE 3 e NodeJS
+- 💙 Aprendendo Docker
 - ⏳ WebSocket com Socket.IO e Ratchet PHP
 - 📙 Explorando GO lang
 - ✨ Experiência com ORM ( Sequelize e Doctrine )
