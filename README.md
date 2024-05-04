@@ -2,6 +2,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=antoniosaints&row=1&column=6&&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/antoniosaints/antoniosaints/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/antoniosaints/antoniosaints/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/antoniosaints/antoniosaints/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 Algumas informações sobre mim:
 
 - 📚 Experiência em JS, PHP, Python, MySQL, VueJS, Jquery, NodeJS
