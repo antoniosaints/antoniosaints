@@ -28,7 +28,7 @@ Algumas informações sobre mim:
 - ⏳ WebSocket com Socket.IO e Ratchet PHP
 - 📙 Explorando GO lang
 - ✨ Experiência com ORM ( Sequelize, Doctrine e Prisma )
-- 📃 Conhecimento nos frameworks (Express, Elysia, Baojs, Gin, Flask)
+- 📃 Conhecimento nos frameworks (ExpressJs, ElysiaJs, Baojs, Gin, Flask)
 
 <div dir="auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
