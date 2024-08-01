@@ -19,15 +19,15 @@
 
 Algumas informações sobre mim:
 
-- 📚 Experiência em JS, PHP, Python, MySQL, VueJS, Jquery, NodeJS
+- 📚 Experiência em TS/JS, PHP, Python, MySQL, VueJS, Jquery, NodeJS
 - 🕹️ Desenvolvedor autodidata
 - 👾 5 anos de experiência com PHP
-- 💛 2 anos de experiência com JS
+- 💛 4 anos de experiência com JS e TS
 - 💚 Bom conhecimento em VUE 3 e NodeJS
 - 💙 Aprendendo Docker
 - ⏳ WebSocket com Socket.IO e Ratchet PHP
 - 📙 Explorando GO lang
-- ✨ Experiência com ORM ( Sequelize e Doctrine )
+- ✨ Experiência com ORM ( Sequelize, Doctrine e Prisma )
 
 <div dir="auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
@@ -45,10 +45,11 @@ Algumas informações sobre mim:
 
 |Frameworks|Conhecimento|
 |----------|------------|
-|VUE3|Intermediário|
+|Vue3(composition api)|Avançado|
 |Codeingniter 4|Avançado|
 |Flask|Básico|
 |Django|Básico|
 |NuxtJS|Intermediário|
 |React|Básico|
 |NodeJS|Intermediário|
+|Go lang|Básico|
