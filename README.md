@@ -19,12 +19,12 @@
 
 Algumas informações sobre mim:
 
-- 📚 Experiência em TS/JS, PHP, Python, MySQL, VueJS, Jquery, NodeJS
+- 📚 Experiência em TS/JS, PHP, Python, MySQL, Postgres
 - 🕹️ Desenvolvedor autodidata
 - 👾 5 anos de experiência com PHP
 - 💛 4 anos de experiência com JS e TS
-- 💚 Bom conhecimento em VUE 3 e NodeJS
-- 💙 Aprendendo Docker
+- 💚 Vue e NodeJS
+- 💙 Docker para produção/desenvolvimento
 - ⏳ WebSocket com Socket.IO e Ratchet PHP
 - 📙 Explorando GO lang
 - ✨ Experiência com ORM ( Sequelize, Doctrine e Prisma )
